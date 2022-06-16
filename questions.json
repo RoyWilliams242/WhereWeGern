@@ -1,0 +1,170 @@
+[
+  {
+    "question": "Which island has the highest point above sea level?",
+    "choice1": "Cat Island",
+    "choice2": "Rum Cay",
+    "choice3": "Andros",
+    "choice4": "Long Island",
+    "answer": 1
+  },
+  {
+    "question": "On which island is the Shrimp hole located?",
+    "choice1": "Paradise Island",
+    "choice2": "Grand Bahama",
+    "choice3": "Long Island",
+    "choice4": "Abaco",
+    "answer": 3
+  },
+  {
+    "question": "Which islands in The Bahamas are geographically the closest?",
+    "choice1": "Andros and New Providence",
+    "choice2": "Abaco and Grand Bahama",
+    "choice3": "Mayaguana and Inagua",
+    "choice4": " Acklins and Crooked Island",
+    "answer": 4
+  },
+  {
+    "question": "What is the meaning of Eleuthera in Greek?",
+    "choice1": "Courage",
+    "choice2": "Freedom",
+    "choice3": "Strength",
+    "choice4": "Peace",
+    "answer": 2
+  },
+  {
+    "question": "Where is the famous Candy striped lighthouse located?",
+    "choice1": "Ragged Island",
+    "choice2": "Inagua",
+    "choice3": "Abaco",
+    "choice4": "New Providence",
+    "answer": 3
+  },
+  {
+    "question": "Which island in The Bahamas has the biggest underwater cave system?",
+    "choice1": "Grand Bahama",
+    "choice2": "Paradise Island",
+    "choice3": "Eleuthera",
+    "choice4": "Andros",
+    "answer": 1
+  },
+  {
+    "question": "BirthPlace of Rake and Scrape?",
+    "choice1": "Andros",
+    "choice2": "New Providence",
+    "choice3": "Long Island",
+    "choice4": "Cat Island",
+    "answer": 4
+  },
+  {
+    "question": "How many National Parks are in The Bahamas?",
+    "choice1": "11",
+    "choice2": "5",
+    "choice3": "14",
+    "choice4": "21",
+    "answer": 3
+  },
+  {
+    "question": "What is the largest national park in The Bahamas?",
+    "choice1": "Botanical Gardens",
+    "choice2": "Bahamas National Trust",
+    "choice3": "Abaco National Park",
+    "choice4": "The Inagua National park",
+    "answer": 4
+  },
+  {
+    "question": "Where is Preacher's cave located?",
+    "choice1": "Eleuthera",
+    "choice2": "Cat Island",
+    "choice3": "Bimini",
+    "choice4": "Rum Cay",
+    "answer": 1
+  },
+  {
+    "question": "Abrahams Bay is the main settlement of _____.",
+    "choice1": "Bimini",
+    "choice2": "Mayaguana",
+    "choice3": "Cat Island",
+    "choice4": "Rum Cay",
+    "answer": 2
+  },
+  {
+    "question": "______ is home to the Gerace Research Center that focuses on Archaeology, biology, geology and marine science.",
+    "choice1": "Inagua",
+    "choice2": "Eleuthera",
+    "choice3": "Bimini",
+    "choice4": "San Salvador",
+    "answer": 4
+  },
+  {
+    "question": "Yahaka is the original name of which island?",
+    "choice1": "Acklins",
+    "choice2": "San Salvador",
+    "choice3": "New Providence",
+    "choice4": "Paradise Island",
+    "answer": 1
+  },
+  {
+    "question": "The Dolphin house Museum is located on which island?",
+    "choice1": "Ragged Island",
+    "choice2": "Grand Bahama",
+    "choice3": "Eleuthera",
+    "choice4": "Bimini",
+    "answer": 4
+  },
+  {
+    "question": "______ is home to the first post office in The Bahamas.",
+    "choice1": "Grand Bahama",
+    "choice2": "Crooked island",
+    "choice3": "New Providence",
+    "choice4": "Eleuthera",
+    "answer": 2
+  },
+  {
+    "question": "Chub Cay is the southernmost cay in which chain of islands?",
+    "choice1": "Bimini Islands",
+    "choice2": "Exuma Islands",
+    "choice3": "The Berry Islands",
+    "choice4": "Long Island",
+    "answer": 3
+  },
+  {
+    "question": "Crown Haven is a settlement found on which island?",
+    "choice1": "Bimini",
+    "choice2": "Great Harbour Cay",
+    "choice3": "Rum Cay",
+    "choice4": "Abaco",
+    "answer": 4
+  },
+  {
+    "question": "Where was the first regatta held in The Bahamas?",
+    "choice1": "Deadman's Cay, Long Island",
+    "choice2": "Marsh Harbour, Abaco",
+    "choice3": "Elizabeth Harbor, Exuma",
+    "choice4": "Fresh Creek, Andros",
+    "answer": 2
+  },
+  {
+    "question": "Twin tower churches ,St Peter and St Pauls Catholic Church, can be found on which island?",
+    "choice1": "Long Island",
+    "choice2": "Eleuthera",
+    "choice3": "San Salvador",
+    "choice4": "Cat Island",
+    "answer": 1
+  },
+  {
+    "question": "Inagua has the highest number of bird species, which island is second?",
+    "choice1": "New Providence",
+    "choice2": "Grand Bahama",
+    "choice3": "San Salvador",
+    "choice4": "Eleuthera",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the only settlement on the west coast of Andros?",
+    "choice1": "Black Point",
+    "choice2": "Conch Sound",
+    "choice3": "Morgan's Bluff",
+    "choice4": "Red Bays Village",
+    "answer": 4
+  }
+]
